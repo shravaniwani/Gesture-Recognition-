@@ -39,5 +39,5 @@ The gestures are continuously monitored by the webcam mounted on the TV. Each ge
 - This project was inspired by Upgrad
 
 ## Contact
-Created by [@PriyaPatil74] - feel free to contact me!
+Created by Sunita Saraf - feel free to contact me!
 
